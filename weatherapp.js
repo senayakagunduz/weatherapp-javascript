@@ -25,4 +25,4 @@ function getData(name) {
 })
   .catch(err=>console.warn(err))
 }
-
+  
